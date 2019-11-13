@@ -1,0 +1,8 @@
+{
+  "led" : {
+    "state" : "ON"
+  },
+  "servomotor" : {
+    "state" : "ON"
+  }
+}
